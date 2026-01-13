@@ -1,0 +1,822 @@
+{
+  "egg": [
+    {
+      "food_id": "2575290",
+      "name": "EGG",
+      "calories": 513,
+      "protein": 6.41,
+      "carbs": 57.7,
+      "fat": 28.8
+    },
+    {
+      "food_id": "2171141",
+      "name": "EGG",
+      "calories": 367,
+      "protein": 0.0,
+      "carbs": 90.0,
+      "fat": 0.0
+    },
+    {
+      "food_id": "2677671",
+      "name": "EGG",
+      "calories": 159,
+      "protein": 11.4,
+      "carbs": 2.27,
+      "fat": 11.4
+    },
+    {
+      "food_id": "747997",
+      "name": "Eggs, Grade A, Large, egg white",
+      "calories": 231,
+      "protein": 10.7,
+      "carbs": 2.36,
+      "fat": 0.0
+    },
+    {
+      "food_id": "748967",
+      "name": "Eggs, Grade A, Large, egg whole",
+      "calories": 148,
+      "protein": 12.4,
+      "carbs": 0.96,
+      "fat": 9.96
+    },
+    {
+      "food_id": "748236",
+      "name": "Eggs, Grade A, Large, egg yolk",
+      "calories": 334,
+      "protein": 16.2,
+      "carbs": 1.02,
+      "fat": 28.8
+    },
+    {
+      "food_id": "2707180",
+      "name": "Egg, Benedict",
+      "calories": 288,
+      "protein": 13.81,
+      "carbs": 8.48,
+      "fat": 22.1
+    },
+    {
+      "food_id": "2707179",
+      "name": "Egg, creamed",
+      "calories": 148,
+      "protein": 7.79,
+      "carbs": 5.52,
+      "fat": 10.35
+    },
+    {
+      "food_id": "2707181",
+      "name": "Egg, deviled",
+      "calories": 198,
+      "protein": 11.52,
+      "carbs": 1.07,
+      "fat": 15.9
+    },
+    {
+      "food_id": "174901",
+      "name": "Bagels, egg",
+      "calories": 1160.0,
+      "protein": 10.6,
+      "carbs": 53.0,
+      "fat": 2.1
+    }
+  ],
+  "eggs": [
+    {
+      "food_id": "2498468",
+      "name": "EGGS",
+      "calories": 571,
+      "protein": 3.57,
+      "carbs": 57.1,
+      "fat": 35.7
+    },
+    {
+      "food_id": "577532",
+      "name": "EGGS",
+      "calories": 136,
+      "protein": 13.6,
+      "carbs": 0.0,
+      "fat": 9.09
+    },
+    {
+      "food_id": "578455",
+      "name": "EGGS",
+      "calories": 140,
+      "protein": 12.0,
+      "carbs": 0.0,
+      "fat": 10.0
+    },
+    {
+      "food_id": "2575422",
+      "name": "EGGS",
+      "calories": 525,
+      "protein": 7.5,
+      "carbs": 60.0,
+      "fat": 27.5
+    },
+    {
+      "food_id": "1663044",
+      "name": "EGGS",
+      "calories": 143,
+      "protein": 12.7,
+      "carbs": 0.0,
+      "fat": 9.52
+    },
+    {
+      "food_id": "2096834",
+      "name": "EGGS",
+      "calories": 143,
+      "protein": 12.5,
+      "carbs": 0.0,
+      "fat": 8.93
+    },
+    {
+      "food_id": "1663084",
+      "name": "EGGS",
+      "calories": 143,
+      "protein": 12.5,
+      "carbs": 0.0,
+      "fat": 8.93
+    },
+    {
+      "food_id": "1664337",
+      "name": "EGGS",
+      "calories": 140,
+      "protein": 12.0,
+      "carbs": 0.0,
+      "fat": 10.0
+    },
+    {
+      "food_id": "2057892",
+      "name": "EGGS",
+      "calories": 158,
+      "protein": 13.2,
+      "carbs": 2.63,
+      "fat": 10.5
+    },
+    {
+      "food_id": "511826",
+      "name": "EGGS",
+      "calories": 140,
+      "protein": 12.0,
+      "carbs": 0.0,
+      "fat": 10.0
+    }
+  ],
+  "ground beef": [
+    {
+      "food_id": "1942314",
+      "name": "GROUND BEEF",
+      "calories": 312,
+      "protein": 17.0,
+      "carbs": 0.0,
+      "fat": 26.8
+    },
+    {
+      "food_id": "2058842",
+      "name": "GROUND BEEF",
+      "calories": 304,
+      "protein": 15.2,
+      "carbs": 0.0,
+      "fat": 26.8
+    },
+    {
+      "food_id": "1548111",
+      "name": "GROUND BEEF",
+      "calories": 312,
+      "protein": 17.0,
+      "carbs": 0.0,
+      "fat": 26.8
+    },
+    {
+      "food_id": "1548127",
+      "name": "GROUND BEEF",
+      "calories": 250,
+      "protein": 17.0,
+      "carbs": 0.0,
+      "fat": 19.6
+    },
+    {
+      "food_id": "1567818",
+      "name": "GROUND BEEF",
+      "calories": 310,
+      "protein": 15.0,
+      "carbs": 0.0,
+      "fat": 26.6
+    },
+    {
+      "food_id": "1578385",
+      "name": "GROUND BEEF",
+      "calories": 312,
+      "protein": 17.0,
+      "carbs": 0.0,
+      "fat": 26.8
+    },
+    {
+      "food_id": "1597053",
+      "name": "GROUND BEEF",
+      "calories": 250,
+      "protein": 17.0,
+      "carbs": 0.0,
+      "fat": 19.6
+    },
+    {
+      "food_id": "579739",
+      "name": "GROUND BEEF",
+      "calories": 214,
+      "protein": 18.8,
+      "carbs": 0.0,
+      "fat": 15.2
+    },
+    {
+      "food_id": "577182",
+      "name": "GROUND BEEF",
+      "calories": 179,
+      "protein": 19.6,
+      "carbs": 0.0,
+      "fat": 9.82
+    },
+    {
+      "food_id": "577699",
+      "name": "GROUND BEEF",
+      "calories": 214,
+      "protein": 19.6,
+      "carbs": 0.0,
+      "fat": 15.2
+    }
+  ],
+  "tortilla": [
+    {
+      "food_id": "2095061",
+      "name": "TORTILLA",
+      "calories": 211,
+      "protein": 5.26,
+      "carbs": 44.7,
+      "fat": 2.63
+    },
+    {
+      "food_id": "2707823",
+      "name": "Tortilla, corn",
+      "calories": 218,
+      "protein": 5.7,
+      "carbs": 44.64,
+      "fat": 2.85
+    },
+    {
+      "food_id": "2707824",
+      "name": "Tortilla, flour",
+      "calories": 306,
+      "protein": 8.2,
+      "carbs": 49.38,
+      "fat": 7.99
+    },
+    {
+      "food_id": "2707822",
+      "name": "Tortilla, NFS",
+      "calories": 262,
+      "protein": 6.95,
+      "carbs": 47.01,
+      "fat": 5.42
+    },
+    {
+      "food_id": "2709162",
+      "name": "Soup, tortilla",
+      "calories": 102,
+      "protein": 4.22,
+      "carbs": 12.56,
+      "fat": 4.17
+    },
+    {
+      "food_id": "2708204",
+      "name": "Tortilla chips, flavored",
+      "calories": 519,
+      "protein": 7.36,
+      "carbs": 60.81,
+      "fat": 27.42
+    },
+    {
+      "food_id": "2707825",
+      "name": "Tortilla, whole wheat",
+      "calories": 310,
+      "protein": 9.76,
+      "carbs": 45.89,
+      "fat": 9.76
+    },
+    {
+      "food_id": "2708202",
+      "name": "Tortilla chips, plain",
+      "calories": 472,
+      "protein": 7.1,
+      "carbs": 67.78,
+      "fat": 20.68
+    },
+    {
+      "food_id": "2708212",
+      "name": "Tortilla chips, reduced sodium",
+      "calories": 489,
+      "protein": 9.35,
+      "carbs": 68.08,
+      "fat": 19.84
+    },
+    {
+      "food_id": "2708209",
+      "name": "Tortilla chips, reduced fat, plain",
+      "calories": 411,
+      "protein": 10.86,
+      "carbs": 79.07,
+      "fat": 5.63
+    }
+  ],
+  "coffee": [
+    {
+      "food_id": "2091869",
+      "name": "COFFEE",
+      "calories": 310,
+      "protein": 2.38,
+      "carbs": 21.4,
+      "fat": 23.8
+    },
+    {
+      "food_id": "1926582",
+      "name": "COFFEE",
+      "calories": 295,
+      "protein": 2.86,
+      "carbs": 24.8,
+      "fat": 22.9
+    },
+    {
+      "food_id": "538197",
+      "name": "COFFEE",
+      "calories": 1.0,
+      "protein": 0.0,
+      "carbs": 0.32,
+      "fat": 0.0
+    },
+    {
+      "food_id": "2539432",
+      "name": "COFFEE",
+      "calories": 500,
+      "protein": 10.7,
+      "carbs": 57.1,
+      "fat": 25.0
+    },
+    {
+      "food_id": "2095248",
+      "name": "COFFEE",
+      "calories": 1.0,
+      "protein": 0.0,
+      "carbs": 0.28,
+      "fat": 0.0
+    },
+    {
+      "food_id": "2710375",
+      "name": "Coffee, brewed",
+      "calories": 1,
+      "protein": 0.12,
+      "carbs": 0,
+      "fat": 0.02
+    },
+    {
+      "food_id": "2710486",
+      "name": "Coffee substitute",
+      "calories": 6,
+      "protein": 0.1,
+      "carbs": 1.3,
+      "fat": 0.04
+    },
+    {
+      "food_id": "2710472",
+      "name": "Coffee, Cappuccino",
+      "calories": 27,
+      "protein": 1.71,
+      "carbs": 2.75,
+      "fat": 0.99
+    },
+    {
+      "food_id": "2710381",
+      "name": "Coffee, Cuban",
+      "calories": 34,
+      "protein": 0.11,
+      "carbs": 7.84,
+      "fat": 0.19
+    },
+    {
+      "food_id": "2710378",
+      "name": "Coffee, espresso",
+      "calories": 9,
+      "protein": 0.12,
+      "carbs": 1.67,
+      "fat": 0.18
+    }
+  ],
+  "sugar": [
+    {
+      "food_id": "2021609",
+      "name": "SUGAR",
+      "calories": 375,
+      "protein": 0.0,
+      "carbs": 100,
+      "fat": 0.0
+    },
+    {
+      "food_id": "2710262",
+      "name": "Sugar substitute and sugar blend",
+      "calories": 399,
+      "protein": 0,
+      "carbs": 99.35,
+      "fat": 0.31
+    },
+    {
+      "food_id": "2707988",
+      "name": "Cookie, sugar or plain, sugar free",
+      "calories": 523,
+      "protein": 10.34,
+      "carbs": 50.52,
+      "fat": 31.03
+    },
+    {
+      "food_id": "2707989",
+      "name": "Cookie, sugar wafer, sugar free",
+      "calories": 531,
+      "protein": 3.57,
+      "carbs": 66.26,
+      "fat": 28.57
+    },
+    {
+      "food_id": "2710260",
+      "name": "Sugar, brown",
+      "calories": 380,
+      "protein": 0.12,
+      "carbs": 98.09,
+      "fat": 0
+    },
+    {
+      "food_id": "2710261",
+      "name": "Sugar, cinnamon",
+      "calories": 390,
+      "protein": 0.28,
+      "carbs": 98.27,
+      "fat": 0.38
+    },
+    {
+      "food_id": "2710257",
+      "name": "Sugar, NFS",
+      "calories": 401,
+      "protein": 0,
+      "carbs": 99.6,
+      "fat": 0.32
+    },
+    {
+      "food_id": "170674",
+      "name": "Sugar, turbinado",
+      "calories": 399,
+      "protein": 0.0,
+      "carbs": 99.8,
+      "fat": 0.0
+    },
+    {
+      "food_id": "168833",
+      "name": "Sugars, brown",
+      "calories": 380,
+      "protein": 0.12,
+      "carbs": 98.1,
+      "fat": 0.0
+    },
+    {
+      "food_id": "746784",
+      "name": "Sugars, granulated",
+      "calories": 1610.0,
+      "protein": 0.0,
+      "carbs": 99.6,
+      "fat": 0.32
+    }
+  ],
+  "2 tbsp sugar": [
+    {
+      "food_id": "2705480",
+      "name": "Chocolate milk, reduced sugar, reduced fat (2%)",
+      "calories": 63,
+      "protein": 3.11,
+      "carbs": 8.62,
+      "fat": 1.78
+    },
+    {
+      "food_id": "2705491",
+      "name": "Hot chocolate / cocoa, reduced sugar, made with whole or reduced fat (2%) milk",
+      "calories": 69,
+      "protein": 2.99,
+      "carbs": 10.44,
+      "fat": 1.73
+    },
+    {
+      "food_id": "2705489",
+      "name": "Hot chocolate / cocoa, dry mix, reduced sugar, made with whole or reduced fat (2%) milk",
+      "calories": 77,
+      "protein": 4.35,
+      "carbs": 10.37,
+      "fat": 1.99
+    },
+    {
+      "food_id": "2705386",
+      "name": "Milk, reduced fat (2%)",
+      "calories": 50,
+      "protein": 3.36,
+      "carbs": 4.9,
+      "fat": 1.9
+    },
+    {
+      "food_id": "174655",
+      "name": "Cereals, CREAM OF WHEAT, 2 1/2 minute cook time, dry",
+      "calories": 1480.0,
+      "protein": 11.6,
+      "carbs": 71.8,
+      "fat": 1.41
+    },
+    {
+      "food_id": "2710262",
+      "name": "Sugar substitute and sugar blend",
+      "calories": 399,
+      "protein": 0,
+      "carbs": 99.35,
+      "fat": 0.31
+    },
+    {
+      "food_id": "2707988",
+      "name": "Cookie, sugar or plain, sugar free",
+      "calories": 523,
+      "protein": 10.34,
+      "carbs": 50.52,
+      "fat": 31.03
+    },
+    {
+      "food_id": "2709364",
+      "name": "Baby Toddler apples, Stage 2",
+      "calories": 37,
+      "protein": 0,
+      "carbs": 10.3,
+      "fat": 0
+    },
+    {
+      "food_id": "2709366",
+      "name": "Baby Toddler bananas, Stage 2",
+      "calories": 91,
+      "protein": 1,
+      "carbs": 21.34,
+      "fat": 0.2
+    },
+    {
+      "food_id": "2710119",
+      "name": "Baby Toddler carrots, Stage 2",
+      "calories": 32,
+      "protein": 0.8,
+      "carbs": 7.2,
+      "fat": 0.2
+    }
+  ],
+  "bacon": [
+    {
+      "food_id": "2128991",
+      "name": "BACON",
+      "calories": 600,
+      "protein": 33.3,
+      "carbs": 0.0,
+      "fat": 46.7
+    },
+    {
+      "food_id": "1886337",
+      "name": "BACON",
+      "calories": 467,
+      "protein": 26.7,
+      "carbs": 0.0,
+      "fat": 40.0
+    },
+    {
+      "food_id": "1799988",
+      "name": "BACON",
+      "calories": 500,
+      "protein": 7.14,
+      "carbs": 0.0,
+      "fat": 50.0
+    },
+    {
+      "food_id": "1897574",
+      "name": "BACON",
+      "calories": 500,
+      "protein": 35.7,
+      "carbs": 0.0,
+      "fat": 35.7
+    },
+    {
+      "food_id": "1912588",
+      "name": "BACON",
+      "calories": 471,
+      "protein": 29.4,
+      "carbs": 0.0,
+      "fat": 35.3
+    },
+    {
+      "food_id": "2093809",
+      "name": "BACON",
+      "calories": 500,
+      "protein": 31.2,
+      "carbs": 0.0,
+      "fat": 37.5
+    },
+    {
+      "food_id": "1853811",
+      "name": "BACON",
+      "calories": 615,
+      "protein": 30.8,
+      "carbs": 0.0,
+      "fat": 53.8
+    },
+    {
+      "food_id": "1479560",
+      "name": "BACON",
+      "calories": 471,
+      "protein": 29.4,
+      "carbs": 0.0,
+      "fat": 41.2
+    },
+    {
+      "food_id": "1897575",
+      "name": "BACON",
+      "calories": 500,
+      "protein": 35.7,
+      "carbs": 0.0,
+      "fat": 35.7
+    },
+    {
+      "food_id": "2707466",
+      "name": "Bacon bits",
+      "calories": 476,
+      "protein": 32,
+      "carbs": 28.6,
+      "fat": 25.9
+    }
+  ],
+  "pancakes": [
+    {
+      "food_id": "1912627",
+      "name": "PANCAKES",
+      "calories": 274,
+      "protein": 6.45,
+      "carbs": 53.2,
+      "fat": 2.42
+    },
+    {
+      "food_id": "2116323",
+      "name": "PANCAKES",
+      "calories": 204,
+      "protein": 7.08,
+      "carbs": 19.5,
+      "fat": 11.5
+    },
+    {
+      "food_id": "2708343",
+      "name": "Chinese pancake",
+      "calories": 207,
+      "protein": 4.05,
+      "carbs": 45.38,
+      "fat": 0.38
+    },
+    {
+      "food_id": "2710273",
+      "name": "Pancake syrup",
+      "calories": 265,
+      "protein": 0,
+      "carbs": 69.6,
+      "fat": 0.1
+    },
+    {
+      "food_id": "2708308",
+      "name": "Pancakes, chocolate",
+      "calories": 341,
+      "protein": 7.68,
+      "carbs": 41.18,
+      "fat": 15.94
+    },
+    {
+      "food_id": "2708306",
+      "name": "Pancakes, fruit",
+      "calories": 232,
+      "protein": 5.86,
+      "carbs": 30.63,
+      "fat": 9.54
+    },
+    {
+      "food_id": "2708294",
+      "name": "Pancakes, NFS",
+      "calories": 282,
+      "protein": 7.41,
+      "carbs": 35.32,
+      "fat": 12.07
+    },
+    {
+      "food_id": "2708304",
+      "name": "Pancakes, plain",
+      "calories": 282,
+      "protein": 7.41,
+      "carbs": 35.32,
+      "fat": 12.07
+    },
+    {
+      "food_id": "2708307",
+      "name": "Pancakes, pumpkin",
+      "calories": 241,
+      "protein": 6.37,
+      "carbs": 30.95,
+      "fat": 10.08
+    },
+    {
+      "food_id": "2708303",
+      "name": "Pancakes, school",
+      "calories": 231,
+      "protein": 6.26,
+      "carbs": 40.43,
+      "fat": 6.57
+    }
+  ],
+  "ramen": [
+    {
+      "food_id": "1919078",
+      "name": "RAMEN",
+      "calories": 327,
+      "protein": 12.7,
+      "carbs": 63.6,
+      "fat": 2.73
+    },
+    {
+      "food_id": "2709154",
+      "name": "Ramen bowl with beef",
+      "calories": 137,
+      "protein": 6.81,
+      "carbs": 15.4,
+      "fat": 5.19
+    },
+    {
+      "food_id": "2709155",
+      "name": "Ramen bowl with chicken",
+      "calories": 126,
+      "protein": 7.04,
+      "carbs": 15.4,
+      "fat": 3.86
+    },
+    {
+      "food_id": "2709156",
+      "name": "Ramen bowl with fish",
+      "calories": 112,
+      "protein": 5.78,
+      "carbs": 15.4,
+      "fat": 2.87
+    },
+    {
+      "food_id": "2709153",
+      "name": "Ramen bowl, NFS",
+      "calories": 127,
+      "protein": 7.13,
+      "carbs": 13.95,
+      "fat": 4.57
+    },
+    {
+      "food_id": "2709157",
+      "name": "Ramen bowl, vegetarian",
+      "calories": 108,
+      "protein": 4.01,
+      "carbs": 15.57,
+      "fat": 3.33
+    },
+    {
+      "food_id": "2709158",
+      "name": "Ramen bowl with meat and egg",
+      "calories": 127,
+      "protein": 7.13,
+      "carbs": 13.95,
+      "fat": 4.57
+    },
+    {
+      "food_id": "2709159",
+      "name": "Ramen bowl, vegetarian with egg",
+      "calories": 112,
+      "protein": 4.85,
+      "carbs": 14.11,
+      "fat": 3.99
+    },
+    {
+      "food_id": "2709152",
+      "name": "Soup, ramen noodles, water added",
+      "calories": 66,
+      "protein": 1.53,
+      "carbs": 9.04,
+      "fat": 2.64
+    },
+    {
+      "food_id": "171177",
+      "name": "Soup, ramen noodle, any flavor, dry",
+      "calories": 440,
+      "protein": 10.2,
+      "carbs": 60.3,
+      "fat": 17.6
+    }
+  ]
+}
